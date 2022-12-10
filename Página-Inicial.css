@@ -29,7 +29,7 @@
 .u-section-1 .u-image-1 {
   width: 155px;
   height: 155px;
-  background-image: url("/images/foto.png");
+  background-image: url("images/foto.png");
   background-position: 50% 50%;
   margin: -175px auto 0 15px;
 }
