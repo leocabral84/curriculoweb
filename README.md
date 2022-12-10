@@ -1,2 +1,0 @@
-# curriculoweb
- CurriculoWeb
